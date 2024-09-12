@@ -1,5 +1,5 @@
 // HTTP Permission Policy Directives 
-const permissionPolicyDirectives: [8]u8 = [8]u8 {
+const httpPermissionPolicyDirectives: [8]u8 = [8]u8 {
     "camera",
     "display-capture",
     "fullscreen",
@@ -7,5 +7,5 @@ const permissionPolicyDirectives: [8]u8 = [8]u8 {
     "microphone",
     "publickey-credentials-get",
     "screen-wake-lock",
-    "web-share",
+    "web-share"
 };

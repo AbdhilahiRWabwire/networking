@@ -121,7 +121,7 @@ const httpStatusCodes: [61]u8 = [61]u8 {
 // Not Extended    
 "510",
 // Network Authentication Required    
-"511",
+"511"
 };
 
 // HTTP Status Descriptions
