@@ -4,9 +4,9 @@
 [VSCode]: https://code.visualstudio.com/docs
 [Zig Language]: https://ziglang.org/
 
-# Hyaena Technologies
+# Networking
 
-Networking Protocol Implementations
+Network Protocol Implementations
 
 ## Features
 
