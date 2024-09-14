@@ -10,7 +10,12 @@ Network Protocol Implementations
 
 ## Features
 
-- [HTTP][Hypertext Transfer Protocol]
+- Domain Name System Protocol
+- [Hypertext Transfer Protocol][Hypertext Transfer Protocol]
+- Internet Protocol
+- Transmission Control Protocol
+- Transport Layer Security
+- User Datagram Protocol
 
 ## Build
 
