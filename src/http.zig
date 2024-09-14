@@ -1,7 +1,7 @@
 const standard: type = @import("std");
 
-// HTTP Type: Structure
-const HTTP = struct {
+// Hypertext Transfer Protocol Model
+const HTTP: type = struct {
     // HTTP CONNECT Method
     fn connect() u8 {
         return 0;

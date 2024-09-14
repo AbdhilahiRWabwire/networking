@@ -1,4 +1,4 @@
-// HTTP Cross-Origin Resource Sharing Errors
+// Hypertext Transfer Protocol Cross-Origin Resource Sharing Errors
 const httpResourceSharingErrors: [15]u8 = [15]u8 {
 "CORS disabled",
 "CORS header 'Access-Control-Allow-Origin' does not match 'xyz'",

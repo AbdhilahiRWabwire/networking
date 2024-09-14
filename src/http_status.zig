@@ -1,4 +1,4 @@
-// HTTP Status Codes
+// Hypertext Transfer Protocol Status Codes
 const httpStatusCodes: [61]u8 = [61]u8 {
 // Continue    
 "100",

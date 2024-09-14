@@ -1,4 +1,4 @@
-// HTTP Content Security Policy Directives
+// Hypertext Transfer Protocol Content Security Policy Directives
 const htttpContentSecurityDirectives: [22]u8 = [22]u8 {
     "base-uri",
     "child-src",

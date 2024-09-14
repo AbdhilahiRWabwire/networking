@@ -1,4 +1,4 @@
-// HTTP Headers
+// Hypertext Transfer Protocol Headers
 const httpHeaders: [93]u8 = [93]u8 {
     "Accept",
     "Accept-CH",
