@@ -16,6 +16,7 @@ Network Protocol Implementations
 - Transmission Control Protocol
 - Transport Layer Security
 - User Datagram Protocol
+- Web Socket Protocol
 
 ## Build
 
