@@ -2,7 +2,7 @@ const standard: type = @import("std");
 
 const network: type = standard.net;
 
-// Hypertext Transfer Protocol Message Model
+// Hypertext Transfer Protocol Message
 const HTTPMessage: type = struct {
     // Hypertext Transfer Protocol Response Message
     fn response(body: ?u8, headers: u8, statusCode: u8, statusMessage: u8, version: u8) u8 {
