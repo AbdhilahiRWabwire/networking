@@ -1,5 +1,7 @@
 const standard: type = @import("std");
 
+const network: type = standard.net;
+
 // Hypertext Transfer Protocol Model
 const HTTP: type = struct {
     // Hypertext Transfer Protocol CONNECT Method
