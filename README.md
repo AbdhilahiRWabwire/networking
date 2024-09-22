@@ -10,7 +10,6 @@ Network Protocol Implementations
 
 ## Features
 
-- Domain Name System Protocol
 - [Hypertext Transfer Protocol][Hypertext Transfer Protocol]
 - Internet Protocol
 - Transmission Control Protocol
