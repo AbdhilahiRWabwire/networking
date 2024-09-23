@@ -1,4 +1,3 @@
-[C Language]: https://learn.microsoft.com/en-us/cpp/c-language
 [Fleet]: https://jetbrains.com/fleet/
 [Hypertext Transfer Protocol]: https://developer.mozilla.org/en-US/docs/Web/HTTP
 [VSCode]: https://code.visualstudio.com/docs
@@ -19,7 +18,6 @@ Network Protocol Implementations
 
 ## Build
 
-- [C][C Language]
 - [JetBrains Fleet][Fleet]
 - [Visual Studio Code][VSCode]
 - [Zig][Zig Language]
@@ -33,5 +31,5 @@ zig build
 ## Install
 
 ```shell
-echo 'export PATH="$PATH:/usr/lib/htmain"' >> ~/.profile
+echo 'export PATH="$PATH:/usr/lib/htnet"' >> ~/.profile
 ```
