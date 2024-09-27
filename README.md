@@ -1,5 +1,5 @@
 [Fleet]: https://jetbrains.com/fleet/
-[Hypertext Transfer Protocol]: https://developer.mozilla.org/en-US/docs/Web/HTTP
+[HTTP]: https://developer.mozilla.org/en-US/docs/Web/HTTP
 [VSCode]: https://code.visualstudio.com/docs
 [Zig Language]: https://ziglang.org/
 
@@ -9,7 +9,7 @@ Network Protocol Implementations
 
 ## Features
 
-- [Hypertext Transfer Protocol][Hypertext Transfer Protocol]
+- [Hypertext Transfer Protocol][HTTP]
 - Internet Protocol
 - Transmission Control Protocol
 - Transport Layer Security
