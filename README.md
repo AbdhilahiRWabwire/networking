@@ -1,4 +1,3 @@
-[Fleet]: https://jetbrains.com/fleet/
 [HTTP]: https://developer.mozilla.org/en-US/docs/Web/HTTP
 [VSCode]: https://code.visualstudio.com/docs
 [Zig Language]: https://ziglang.org/
@@ -18,7 +17,6 @@ Network Protocol Implementations
 
 ## Build
 
-- [JetBrains Fleet][Fleet]
 - [Visual Studio Code][VSCode]
 - [Zig][Zig Language]
 
