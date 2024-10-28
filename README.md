@@ -1,5 +1,6 @@
 [HTTP]: https://developer.mozilla.org/en-US/docs/Web/HTTP
 [VSCode]: https://code.visualstudio.com/docs
+[YAML]: https://yaml.org/
 [Zig Language]: https://ziglang.org/
 
 # Networking
@@ -14,6 +15,7 @@ Network Protocol Implementations
 - Transport Layer Security
 - User Datagram Protocol
 - Web Socket Protocol
+- [YAML Ain't Markup Language][YAML]
 
 ## Build
 
