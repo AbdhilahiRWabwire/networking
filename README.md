@@ -31,5 +31,5 @@ zig build
 ## Install
 
 ```shell
-echo 'export PATH="$PATH:/usr/lib/htnet"' >> ~/.profile
+echo 'export PATH="$PATH:/usr/local/bin/htinet"' >> ~/.bashrc && sudo echo 'export PATH="$PATH:/usr/local/bin/htinet"' >> /etc/skel/.bashrc
 ```
