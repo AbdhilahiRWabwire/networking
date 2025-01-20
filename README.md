@@ -9,6 +9,7 @@ Network Protocol Implementations
 
 ## Features
 
+- DNS Protocol
 - [Hypertext Transfer Protocol][HTTP]
 - Internet Protocol
 - Transmission Control Protocol
